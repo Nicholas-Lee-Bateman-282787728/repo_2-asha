@@ -1,0 +1,24 @@
+{
+  "name": "NodeCodeSnippet",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "grunt lint"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "commander": "^2.6.0",
+    "debug": "~0.7.4",
+    "http-proxy": "^1.8.1",
+    "mocha": "^2.0.1",
+    "timethat": "0.0.2",
+    "winston": "^0.8.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-config-dir": "^0.3.2",
+    "grunt-contrib-jshint": "^0.11.0",
+    "jshint": "^2.6.0",
+    "should": "^4.6.2"
+  }
+}
